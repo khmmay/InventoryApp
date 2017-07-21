@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="cat_Product">Product</string>
+    <string name="hint_Product">Name</string>
+    <string name="cat_InStock">Amount in Stock</string>
+    <string name="cat_Quantity">Quantity</string>
+    <string name="hint_Quantity">0</string>
+    <string name="cat_decinc">Decrease/Increase quantity by</string>
+    <string name="hint_decinc">1</string>
+
+</resources>
