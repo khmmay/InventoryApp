@@ -15,5 +15,7 @@
 
     <!-- Common margin value used throughout the app -->
     <dimen name="activity_margin">16dp</dimen>
+
+    <dimen name="content_padding">8dp</dimen>
 </resources>
 

@@ -5,7 +5,46 @@
     <string name="cat_InStock">Amount in Stock</string>
     <string name="cat_Quantity">Quantity</string>
     <string name="hint_Quantity">0</string>
-    <string name="cat_decinc">Decrease/Increase quantity by</string>
-    <string name="hint_decinc">1</string>
+    <string name="cat_packageSize">Package Size</string>
+    <string name="hint_packageSize">1</string>
+    <string name="cat_Info">Product Information</string>
+    <string name="hint_Info">Type in the product information here.</string>
+    <string name="cat_Img">Product Image</string>
+    <string name="but_del">Delete</string>
+    <string name="but_save">Save</string>
+    <string name="but_sell">Sell</string>
+    <string name="but_order">Order</string>
+    <string name="cat_price">Price in cents:</string>
+    <string name="hint_price">Price in cents</string>
+    <string name="details_activity_title_new_product">Add new product</string>
+    <string name="details_activity_title_edit_product">Edit product</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="wrong_quantiy">Please enter a valid quantity.</string>
+    <string name="wrong_pack_size">Please enter a valid package size.</string>
+
+    <string name="editor_update_product_failed">Updating product failed!</string>
+    <string name="editor_update_product_successful">Updating product successful.</string>
+    <string name="editor_insert_product_failed">Saving product failed!</string>
+    <string name="editor_insert_product_successful">Saving product successful.</string>
+
+    <string name="empty_view_title_text">Product Inventory</string>
+    <string name="empty_view_subtitle_text">Add a product by hitting the red button.</string>
+
+    <string name="delete_dialog_msg">Are you sure to delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_failed">Delete failed</string>
+    <string name="editor_delete_successful">Delete successful</string>
+
+    <string name="no_info">No further information available</string>
 
 </resources>
